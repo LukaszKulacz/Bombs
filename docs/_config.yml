@@ -1,1 +1,8 @@
 theme: jekyll-theme-cayman
+title: Bombs
+description: Gra typu Bomberman
+show_downloads: true
+github:
+  is_project_page: true
+  repository_url: http://github.com/LukaszKulacz/Bombs
+  repository_name: Bombs
